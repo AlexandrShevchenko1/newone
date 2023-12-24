@@ -4,3 +4,4 @@ fun main(args: Array<String>) {
     program.runProgram()
     println("Program has successfully finished.")
 }
+
